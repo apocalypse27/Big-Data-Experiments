@@ -53,6 +53,3 @@ Contains userID, movieID, ratings and timestamp
 1b. Give the names of bottom 10 movies with lowest average ratings.
 2. Find average rating of each movie where the movie’s tag is ‘action’.
 3. Find average rating of each movie where the movie’s tag is ‘action’  and  genre contains ‘thrill’.
-Hint: ‘join by key’ technique is needed.
-
-
